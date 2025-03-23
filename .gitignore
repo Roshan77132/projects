@@ -1,9 +1,30 @@
-# Ignore editor and system files
-.bash_history
-.gitignore~
-.vscode/
-Untitled-1.jsonc# Ignore editor and system files
-.bash_history
-.gitignore~
-.vscode/
-Untitled-1.jsonc
+# Ignore system directories
+AppData/
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+3D Objects/
+
+# Ignore system files
+NTUSER.*
+ntuser.*
