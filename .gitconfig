@@ -3,3 +3,5 @@
 	email = roshanpratapshrestha@gmail.com
 [core]
 	autocrlf = true
+[init]
+	defaultBranch = main
